@@ -1,4 +1,7 @@
 ## Android Login Retrofit OAuth2
+
+[![Build Status](https://travis-ci.org/adit-gudhel/LoginOauth.svg?branch=master)](https://travis-ci.org/adit-gudhel/LoginOauth.svg?branch=master)
+
 Contoh aplikasi android untuk login melalui API / Web Service yang menggunakan OAuth2 atau JWT untuk API otentifikasinya. Aplikasi ini dibuat menggunakan bahasa pemrograman kotlin, tutorial lengkap step-by-step dapat mengunjungi blog [dityalovers.blogspot.com](https://dityalovers.blogspot.com/2020/11/android-login-retrofit-oauth2.html).
 
 ## Libraries
