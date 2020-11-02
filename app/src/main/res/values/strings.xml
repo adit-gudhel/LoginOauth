@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login OAuth</string>
+    <string name="company_name">&#169; 2020. Aditya Nursyahbani</string>
+    <string name="login_username">Username / Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="logout_button">Keluar</string>
+    <string name="bearer_token">Bearer Token</string>
+    <string name="loading_text">Mohon Tunggu</string>
+</resources>
